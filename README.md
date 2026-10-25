@@ -8,6 +8,7 @@
     - [Breadcrumbs](#breadcrumbs)
     - [~~Potato Croquettes~~](#potato-croquettes)
     - [~~Meatballs~~](#meatballs)
+    - [~~Pizza Dough~~](#pizza-dough)
 
 - [Flair Modern Cuisine](#flair)
   - [Menu Items](#menu-items)
@@ -34,7 +35,7 @@ Recipe:
 - 1/2 Cup of Salt+Pepper
 - 1/3 Cup of Italian Seasoning
 
-Notes:
+Process:
 
 - Store in an 18 Qt container
 ```
@@ -49,6 +50,16 @@ Recipe:
 
 ```markdown
 Recipe:
+```
+
+### Pizza Dough:
+
+```markdown
+Recipe:
+
+- 2 x 25 Lb Bags of Flour
+
+Process:
 ```
 
 ---
