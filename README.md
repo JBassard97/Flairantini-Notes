@@ -37,7 +37,9 @@ Recipe:
 
 Process:
 
-- Store in an 18 Qt container
+- Use an 18 Qt container
+- Weight out the Panko and Parmesan 2 Lbs at a time in a metal bowl because the scale can only handle so much.
+- Shake it really well
 ```
 
 ### Potato Croquettes:
@@ -58,8 +60,30 @@ Recipe:
 Recipe:
 
 - 2 x 25 Lb Bags of Flour
+- 50 Degree Water filled to the line in 18 Qt container
+- 2 Cups of Canola Oil
+- 2 Cups of Sugar + 1.5 Cups of Salt in a 1/6th pan
+- 2 Ounces of Yeast by weight
 
 Process:
+
+1. Add the hook before ingredients
+2. Add in this order: Water, Flour, Salt+Sugar, and Yeast
+3. Crank the bowl up and ENSURE the speed is set at 1
+4. Mix for 2 minutes ("shaggy ball"), then add Canola Oil
+5. Mix for another 5 minutes at speed 1
+6. Turn speed up to 2 and mix for another 6 minutes
+
+Notes:
+
+- Ball Weights:
+  - Small: 7 Ounces (12 per tray)
+  - Medium: 14 Ounces (8 per tray)
+  - Large: 22 Ounces (6 per tray)
+- Typical batch breakdown:
+  - 2 Trays Small
+  - 3 Trays Medium
+  - The rest Large
 ```
 
 ---
