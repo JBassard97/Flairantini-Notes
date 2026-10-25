@@ -1,0 +1,20 @@
+{
+  "name": "flairantini",
+  "version": "1.0.0",
+  "description": "Flairantini Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,"save": "git add . && git commit -m \"Save changes\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBassard97/Flairantini-Notes.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JBassard97/Flairantini-Notes/issues"
+  },
+  "homepage": "https://github.com/JBassard97/Flairantini-Notes#readme"
+}
