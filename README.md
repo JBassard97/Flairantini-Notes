@@ -4,14 +4,18 @@
 
 - [Tarantini Italian Restaurant](#tarantini)
   - [Menu Items](#menu-items)
+    - [Sausage & Broccoli Rabe Ravioli](#sausage-broccoli-rabe-ravioli)
+    - [Veal Saltimboca](#veal-saltimboca)
   - [Prep](#prep)
     - [Breadcrumbs](#breadcrumbs)
     - [~~Potato Croquettes~~](#potato-croquettes)
     - [~~Meatballs~~](#meatballs)
-    - [~~Pizza Dough~~](#pizza-dough)
+    - [Pizza Dough](#pizza-dough)
 
 - [Flair Modern Cuisine](#flair)
   - [Menu Items](#menu-items)
+    - [Brunch](#brunch)
+    - [Dinner](#dinner)
   - [Prep](#prep)
 - [Both Restaurants](#both)
   - [Menu Items](#menu-items)
@@ -20,6 +24,57 @@
 # **_Tarantini_**
 
 ## **Menu Items**
+
+### Sausage & Broccoli Rabe Ravioli
+
+```markdown
+Recipe (In Order):
+
+- 4 Broccoli Ravioli
+- 2 Oz of Olive Oil
+- 1/3 Cup of Sliced Sausage
+- 1 Tbsp Fresh Garlic
+- 2 Oz of White Wine
+- 10-12 Oz Broccoli Rabe
+- 3 Oz Butter
+- Pinch of Salt+Pepper
+
+Process:
+
+1. Immediately put 4 Ravioli in boiling water
+```
+
+### Veal Saltimboca
+
+Gets Potato Croquettes UNLESS Sub Pasta
+
+```markdown
+Recipe:
+
+- 1 Slice Veal
+- A Dusting of Flour
+- 2 Oz Blend Oil
+- 1 Slice Prosciutto
+- 1 Slice Fresh Mozzarella
+- 3 Oz Butter
+- 1 Tbsp Garlic
+- 3 Oz Artichoke
+- 3 Oz White Wine
+- 8 Oz Beef Stock (Dine In)/12 Oz (Carryout)
+- 2 Cups Spinach
+- 2 Potato Croquettes
+- Finish with Parsley
+
+Process:
+
+1. Put Blend Oil in a pan, dust the Veal in flour, and sear it
+2. When that's done: put Nonstick Spray on a sizzle tray, cut the Veal in half and top with the Prosciutto and Mozzarella. Place in the oven until top is gold.
+3. Start the sauce: In a pan add the Butter and Garlic and cook until gold/crispy. Then add Artichoke.
+4. Deglaze with White Wine and add Beef Stock
+5. In another pan, lightly sautee the Spinach
+6. To Plate: center the Spinach, set the Veal on top, add 2 potato croquettes.
+7. Finish with Parsley
+```
 
 ## **_Prep_**
 
@@ -91,6 +146,10 @@ Notes:
 # **_Flair_**
 
 ## **Menu Items**
+
+## Brunch
+
+## Dinner
 
 ## **_Prep_**
 
