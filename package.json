@@ -4,8 +4,8 @@
   "description": "Flairantini Notes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    ,"save": "git add . && git commit -m \"Save changes\" && git push"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "npx md-to-pdf README.md && git add . && git commit -m \"Save changes\" && git push"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JBassard97/Flairantini-Notes/issues"
   },
-  "homepage": "https://github.com/JBassard97/Flairantini-Notes#readme"
+  "homepage": "https://github.com/JBassard97/Flairantini-Notes#readme",
+  "dependencies": {
+    "approve": "^0.0.12",
+    "md-to-pdf": "^5.2.5",
+    "puppeteer": "^25.16.0",
+    "scripts": "^0.1.0"
+  }
 }
