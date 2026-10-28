@@ -4,13 +4,28 @@
 
 - [Tarantini Italian Restaurant](#tarantini)
   - [Menu Items](#menu-items)
-    - [Sausage & Broccoli Rabe Ravioli](#sausage-broccoli-rabe-ravioli)
-    - [Veal Saltimboca](#veal-saltimboca)
+    - [Pasta](#pasta)
+      - [Sausage & Broccoli Rabe Ravioli](#sausage-broccoli-rabe-ravioli)
+      - [~~Ravioli con Funghi~~](#ravioli-con-funghi)
+      - [~~Rigatoni alla Vodka~~](#rigatoni-alla-vodka)
+      - [~~Fettuccine Alfredo~~](#fettuccine-alfredo)
+    - [Vitello](#vitello)
+      - [Veal Saltimboca](#veal-saltimboca)
+    - [Pesce](#pesce)
+      - [~~Salmon Aurora~~](#salmon-aurora)
+      - [~~Shrimp Scampi~~](#shrimp-scampi)
+      - [~~Shrimp & Pea Risotto~~](#shrimp-pea-risotto)
+      - [~~Halibut Livornese~~](#halibut-livornese)
+      - [~~Halibut Piccata~~](#halibut-piccata)
+    - [Pollo](#pollo)
+    - [Pizza](#pizza)
+    - [Side Dishes](#side-dishes)
   - [Prep](#prep)
     - [Breadcrumbs](#breadcrumbs)
     - [~~Potato Croquettes~~](#potato-croquettes)
     - [~~Meatballs~~](#meatballs)
     - [Pizza Dough](#pizza-dough)
+    - [~~Lasagna~~](#lasagna-prep)
 
 - [Flair Modern Cuisine](#flair)
   - [Menu Items](#menu-items)
@@ -25,7 +40,9 @@
 
 ## **Menu Items**
 
-### Sausage & Broccoli Rabe Ravioli
+## Pasta
+
+### Sausage Broccoli Rabe Ravioli
 
 ```markdown
 Recipe (In Order):
@@ -43,6 +60,14 @@ Process:
 
 1. Immediately put 4 Ravioli in boiling water
 ```
+
+## Ravioli con Funghi
+
+## Rigatoni alla Vodka
+
+## Fettuccine Alfredo
+
+## Vitello
 
 ### Veal Saltimboca
 
@@ -72,9 +97,27 @@ Process:
 3. Start the sauce: In a pan add the Butter and Garlic and cook until gold/crispy. Then add Artichoke.
 4. Deglaze with White Wine and add Beef Stock
 5. In another pan, lightly sautee the Spinach
-6. To Plate: center the Spinach, set the Veal on top, add 2 potato croquettes.
+6. To Plate: Pour all the sauce, center the Spinach, set the Veal on top, add 2 potato croquettes.
 7. Finish with Parsley
 ```
+
+## Pesce
+
+### Salmon Aurora
+
+### Shrimp Scampi
+
+### Shrimp & Pea Risotto
+
+### Halibut Livornese
+
+### Halibut Piccata
+
+## Pollo
+
+## Pizza
+
+## Side Dishes
 
 ## **_Prep_**
 
