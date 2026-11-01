@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/JBassard97/Flairantini-Notes#readme",
   "dependencies": {
-    "approve": "^0.0.12",
     "md-to-pdf": "^5.2.5",
-    "puppeteer": "^25.16.0",
-    "scripts": "^0.1.0"
+    "puppeteer": "^25.16.0"
+  },
+  "allowScripts": {
+    "puppeteer@25.16.0": true
   }
 }

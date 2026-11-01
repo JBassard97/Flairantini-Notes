@@ -18,14 +18,16 @@
       - [~~Halibut Livornese~~](#halibut-livornese)
       - [~~Halibut Piccata~~](#halibut-piccata)
     - [Pollo](#pollo)
+      - [Pollo-Rollatini](#pollo-rollatini)
     - [Pizza](#pizza)
     - [Side Dishes](#side-dishes)
   - [Prep](#prep)
     - [Breadcrumbs](#breadcrumbs)
-    - [~~Potato Croquettes~~](#potato-croquettes)
+    - [Potato Croquettes](#potato-croquettes)
     - [~~Meatballs~~](#meatballs)
     - [Pizza Dough](#pizza-dough)
     - [~~Lasagna~~](#lasagna-prep)
+    - [Brocolli Rabe](#brocolli-rabe)
 
 - [Flair Modern Cuisine](#flair)
   - [Menu Items](#menu-items)
@@ -88,7 +90,7 @@ Recipe:
 - 8 Oz Beef Stock (Dine In)/12 Oz (Carryout)
 - 2 Cups Spinach
 - 2 Potato Croquettes
-- Finish with Parsley
+- Pinch of Parsley
 
 Process:
 
@@ -96,9 +98,9 @@ Process:
 2. When that's done: put Nonstick Spray on a sizzle tray, cut the Veal in half and top with the Prosciutto and Mozzarella. Place in the oven until top is gold.
 3. Start the sauce: In a pan add the Butter and Garlic and cook until gold/crispy. Then add Artichoke.
 4. Deglaze with White Wine and add Beef Stock
-5. In another pan, lightly sautee the Spinach
+5. In another pan, lightly sautee the Spinach with some Olive Oil and Garlic.
 6. To Plate: Pour all the sauce, center the Spinach, set the Veal on top, add 2 potato croquettes.
-7. Finish with Parsley
+7. Goes on a PLATE, finish with Parsley
 ```
 
 ## Pesce
@@ -144,6 +146,21 @@ Process:
 
 ```markdown
 Recipe:
+
+- 20 Large Potatoes
+- 4 Egg Yolks (Save the whites for Parm Station)
+- 7 Cups Parmesan Cheese
+- 3 Tbsp Parsley
+- 4 Tbsp Garlic Powder
+- 4 Tbsp Salt+Pepper
+
+Process:
+
+1. Boil the potatoes until you start seeing the skin come off, then pour them into a collander. Set aside a huge bowl for the next step.
+2. With a bar towel and a hot potato in one hand and a steak knife in the other, scrape off the skin. Remove any ugly bits and eyes.
+3. Use the masher and mash all of the potatoes in the bowl, then add all of the ingredients.
+4. Mix it by hand the rest of the way, breaking up as many solid bits you can by squeezing them in between your fingers.
+5. On 2 large (unsprayed) metal trays, use a Green scoop to portion them all, then roll them all at once onto one tray.
 ```
 
 ### Meatballs:
@@ -182,6 +199,15 @@ Notes:
   - 2 Trays Small
   - 3 Trays Medium
   - The rest Large
+```
+
+### Brocolli Rabe
+
+```markdown
+Process:
+
+1. Cut the bunch in thirds
+2. Trash the bottom 1/3rd, Keep the top 1/3rd, and pick out the big sticks from the middle 1/3rd and keep what's good
 ```
 
 ---
