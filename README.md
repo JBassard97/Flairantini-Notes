@@ -6,10 +6,13 @@
   - [Menu Items](#menu-items)
     - [Pasta](#pasta)
       - [Sausage & Broccoli Rabe Ravioli](#sausage-broccoli-rabe-ravioli)
-      - [~~Ravioli con Funghi~~](#ravioli-con-funghi)
+      - [Ravioli con Funghi](#ravioli-con-funghi)
       - [~~Rigatoni alla Vodka~~](#rigatoni-alla-vodka)
       - [~~Fettuccine Alfredo~~](#fettuccine-alfredo)
+      - [Capellini Pesto](#capellini-pesto)
+      - [Penne Rustica](#penne-rustica)
     - [Vitello](#vitello)
+      - [Veal Marsala](#veal-marsala)
       - [Veal Saltimboca](#veal-saltimboca)
     - [Pesce](#pesce)
       - [~~Salmon Aurora~~](#salmon-aurora)
@@ -18,16 +21,19 @@
       - [~~Halibut Livornese~~](#halibut-livornese)
       - [~~Halibut Piccata~~](#halibut-piccata)
     - [Pollo](#pollo)
-      - [Pollo-Rollatini](#pollo-rollatini)
+      - [Pollo Marsala](#pollo-marsala)
+      - [Pollo Rollatini](#pollo-rollatini)
     - [Pizza](#pizza)
     - [Side Dishes](#side-dishes)
   - [Prep](#prep)
     - [Breadcrumbs](#breadcrumbs)
     - [Potato Croquettes](#potato-croquettes)
-    - [~~Meatballs~~](#meatballs)
+    - [Meatballs](#meatballs)
     - [Pizza Dough](#pizza-dough)
-    - [~~Lasagna~~](#lasagna-prep)
+    - [Large Lasagna](#large-lasagna)
     - [Brocolli Rabe](#brocolli-rabe)
+    - [Sauces](#sauces)
+      - [Bolognese Sauce](#bolognese-sauce)
 
 - [Flair Modern Cuisine](#flair)
   - [Menu Items](#menu-items)
@@ -46,6 +52,10 @@
 
 ### Sausage Broccoli Rabe Ravioli
 
+<p align="center">
+  <img src="./images/tarantini/Sausage%20&%20Broccoli%20Rabe%20Ravioli.jpg" width="500">
+</p>
+
 ```markdown
 Recipe (In Order):
 
@@ -60,20 +70,46 @@ Recipe (In Order):
 
 Process:
 
-1. Immediately put 4 Ravioli in boiling water
+1. Immediately put 4 Brocolli Ravioli in boiling water
 ```
 
-## Ravioli con Funghi
+### Ravioli con Funghi
 
-## Rigatoni alla Vodka
+<p align="center">
+  <img src="./images/tarantini/Mushroom Ravioli.jpg" width="500">
+</p>
 
-## Fettuccine Alfredo
+### Rigatoni alla Vodka
+
+### Fettuccine Alfredo
+
+### Capellini Pesto
+
+<p align="center">
+  <img src="./images/tarantini/Capellini Pesto.jpg" width="500">
+</p>
+
+### Penne Rustica
+
+<p align="center">
+  <img src="./images/tarantini/Penne Rustica.jpg" width="500">
+</p>
 
 ## Vitello
 
+### Veal Marsala
+
+<p align="center">
+  <img src="./images/tarantini/Chicken Veal Marsala.jpg" width="500">
+</p>
+
 ### Veal Saltimboca
 
-Gets Potato Croquettes UNLESS Sub Pasta
+<p align="center">
+  <img src="./images/tarantini/Veal Saltimboca.jpg" width="500">
+</p>
+
+Gets Potato Croquettes unless Sub Pasta
 
 ```markdown
 Recipe:
@@ -109,13 +145,25 @@ Process:
 
 ### Shrimp Scampi
 
-### Shrimp & Pea Risotto
+### Shrimp Pea Risotto
 
 ### Halibut Livornese
 
 ### Halibut Piccata
 
 ## Pollo
+
+### Pollo Marsala
+
+<p align="center">
+  <img src="./images/tarantini/Chicken Veal Marsala.jpg" width="500">
+</p>
+
+### Pollo Rollatini
+
+<p align="center">
+  <img src="./images/tarantini/Pollo Rollatini.jpg" width="500">
+</p>
 
 ## Pizza
 
@@ -144,6 +192,10 @@ Process:
 
 ### Potato Croquettes:
 
+<p align="center">
+  <img src="./images/tarantini/Potato Croquettes.jpg" width="500">
+</p>
+
 ```markdown
 Recipe:
 
@@ -165,11 +217,19 @@ Process:
 
 ### Meatballs:
 
+<p align="center">
+  <img src="./images/tarantini/Meatballs.jpg" width="500">
+</p>
+
 ```markdown
 Recipe:
 ```
 
 ### Pizza Dough:
+
+<p align="center">
+  <img src="./images/tarantini/Pizza Dough.jpg" width="500">
+</p>
 
 ```markdown
 Recipe:
@@ -201,6 +261,12 @@ Notes:
   - The rest Large
 ```
 
+### Large Lasagna
+
+<p align="center">
+  <img src="./images/tarantini/Large Lasagna.jpg" width="500">
+</p>
+
 ### Brocolli Rabe
 
 ```markdown
@@ -209,6 +275,32 @@ Process:
 1. Cut the bunch in thirds
 2. Trash the bottom 1/3rd, Keep the top 1/3rd, and pick out the big sticks from the middle 1/3rd and keep what's good
 ```
+
+## Sauces
+
+### Bolognese Sauce
+
+<p align="center">
+  <img src="./images/tarantini/Bolognese Sauce.jpg" width="500">
+</p>
+
+### Piccata Sauce
+
+<p align="center">
+  <img src="./images/tarantini/Piccata Sauce.jpg" width="500">
+</p>
+
+### Marsala Sauce
+
+<p align="center">
+  <img src="./images/tarantini/Marsala Sauce.jpg" width="500">
+</p>
+
+### Alfredo Sauce
+
+<p align="center">
+  <img src="./images/tarantini/Alfredo Sauce.jpg" width="500">
+</p>
 
 ---
 
